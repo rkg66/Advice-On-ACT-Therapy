@@ -5,3 +5,4 @@
 - [ACT Anxiety Techniques](https://jyotirgamya.org/opinion/anxiety-act/)
 - [How does Acceptance and Commitment Therapy define values?](https://jyotirgamya.org/opinion/define-values-acceptance-commitment-therapy/)
 - [How Can Commitment Lead You To Success](https://jyotirgamya.org/opinion/committed-actions-act/)
+- [Why Is Acceptance Important In ACT?](https://jyotirgamya.org/opinion/acceptance-act/)
