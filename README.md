@@ -7,3 +7,4 @@
 - [How Can Commitment Lead You To Success](https://jyotirgamya.org/opinion/committed-actions-act/)
 - [Why Is Acceptance Important In ACT?](https://jyotirgamya.org/opinion/acceptance-act/)
 - [What is Cognitive Defusion in ACT Therapy?](https://jyotirgamya.org/opinion/cognitive-defusion-technique-act/)
+- [Acceptance vs. Cognitive Defusion: How Do You Develop Psychological Flexibility?](https://jyotirgamya.org/opinion/acceptance-vs-cognitive-defusion/)
