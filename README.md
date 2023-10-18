@@ -9,3 +9,4 @@
 - [What is Cognitive Defusion in ACT Therapy?](https://jyotirgamya.org/opinion/cognitive-defusion-technique-act/)
 - [Acceptance vs. Cognitive Defusion: How Do You Develop Psychological Flexibility?](https://jyotirgamya.org/opinion/acceptance-vs-cognitive-defusion/)
 - [Self as Context in Acceptance and Commitment Therapy (ACT)](https://jyotirgamya.org/opinion/self-as-context-act/)
+- [Ego Defence Mechanism in Psychology](https://jyotirgamya.org/opinion/act-ego/)
